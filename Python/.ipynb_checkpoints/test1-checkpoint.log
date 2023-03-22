@@ -1,0 +1,4 @@
+INFO:root:THis is the line of exacution
+ERROR:root:This is my error
+CRITICAL:root:this is the critical
+WARNING:root:this is the warning

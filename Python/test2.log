@@ -1,0 +1,42 @@
+2023-03-21 00:12:44,412 this is my info log
+2023-03-21 00:12:44,792 this is my debug log
+2023-03-21 00:12:45,035 this is my warning 
+2023-03-21 00:13:07,276 this is my info log
+2023-03-21 00:13:56,987 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,987 this is the value of i am logging 1
+2023-03-21 00:13:56,987 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,987 this is the value of i am logging 2
+2023-03-21 00:13:56,987 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,987 this is the value of i am logging 3
+2023-03-21 00:13:56,987 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,987 this is the value of i am logging 4
+2023-03-21 00:13:56,987 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,987 this is the value of i am logging [4, 5, 6]
+2023-03-21 00:13:56,988 logggin my j 4 and i is [4, 5, 6]
+2023-03-21 00:13:56,988 logggin my j 5 and i is [4, 5, 6]
+2023-03-21 00:13:56,988 logggin my j 6 and i is [4, 5, 6]
+2023-03-21 00:13:56,988 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,988 this is the value of i am logging nitesh
+2023-03-21 00:13:56,988 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:13:56,988 this is the value of i am logging surana
+2023-03-21 00:13:56,988 this is my final result  with all int [1, 2, 3, 4, 4, 5, 6] ,with all str['nitesh', 'surana']
+2023-03-21 00:14:02,357 pickle loaded: /usr/lib/python3.8/logging/__init__.py
+2023-03-21 00:14:49,343 this is my info log
+2023-03-21 00:14:49,782 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,783 this is the value of i am logging 1
+2023-03-21 00:14:49,784 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,784 this is the value of i am logging 2
+2023-03-21 00:14:49,784 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,785 this is the value of i am logging 3
+2023-03-21 00:14:49,785 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,785 this is the value of i am logging 4
+2023-03-21 00:14:49,786 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,786 this is the value of i am logging [4, 5, 6]
+2023-03-21 00:14:49,787 logggin my j 4 and i is [4, 5, 6]
+2023-03-21 00:14:49,787 logggin my j 5 and i is [4, 5, 6]
+2023-03-21 00:14:49,787 logggin my j 6 and i is [4, 5, 6]
+2023-03-21 00:14:49,788 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,788 this is the value of i am logging nitesh
+2023-03-21 00:14:49,788 this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'nitesh', 'surana']
+2023-03-21 00:14:49,789 this is the value of i am logging surana
+2023-03-21 00:14:49,789 this is my final result  with all int [1, 2, 3, 4, 4, 5, 6] ,with all str['nitesh', 'surana']
